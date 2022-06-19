@@ -5,6 +5,7 @@
   *
   * Return: Nothing
   */
+
 void frees_stack(void)
 {
 	stack_t *temp = NULL;
