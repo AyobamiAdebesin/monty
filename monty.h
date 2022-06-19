@@ -10,6 +10,7 @@
 #define METH_QUEUE		301
 
 /* Common Errors */
+
 #define ERR_BAD_INST	100
 #define ERR_BAD_MALL	101
 #define ERR_INVLD_PARM	102
