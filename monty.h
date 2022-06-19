@@ -2,6 +2,7 @@
 #define _MONTY_
 
 /* Constants */
+
 #define SUCSS_OP		0
 #define VALID_PARM		0
 #define MIN_ARGS		2
